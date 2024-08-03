@@ -16,4 +16,21 @@ can be intersected to great effect, but it will provide a foundation for Cisco D
 I plan on pursuing in the future
 
 
+----------------------------------------------------------------------------------------------------------
+
+
+###### First Steps #######
+
+1. Set Up Git Repository:
+
+Created and accessed a new Git repository for the project via WSL
+Added POX controller as a submodule to the repository
+
+2. Configured Environment:
+
+Verified that the Git repository and POX submodule are accessible in WSL
+Ensured Python and Mininet are installed in the WSL environment
+
+3. Installed Mininet:
+
 
